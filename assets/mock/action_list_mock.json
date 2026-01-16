@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "title": "Compartilhar sua loja no WhatsApp",
+    "description": "Envie o link da sua loja para seus contatos",
+    "type": "share_link",
+    "status": "pending",
+    "shareUrl": "https://minhaloja.boticario.com.br/ana"
+  },
+  {
+    "id": "2",
+    "title": "Postar oferta do dia no WhatsApp Status",
+    "description": "Aumente a visibilidade compartilhando uma oferta no seu status",
+    "type": "post_status",
+    "status": "pending"
+  },
+  {
+    "id": "3",
+    "title": "Divulgar lançamento nas redes sociais",
+    "description": "Compartilhe um produto recém-lançado para atrair clientes",
+    "type": "post_social",
+    "status": "pending"
+  },
+  {
+    "id": "4",
+    "title": "Enviar link da loja para clientes recorrentes",
+    "description": "Reative clientes que já compraram com você",
+    "type": "share_link",
+    "status": "done",
+    "shareUrl": "https://minhaloja.boticario.com.br/ana"
+  },
+  {
+    "id": "5",
+    "title": "Compartilhar kits promocionais",
+    "description": "Divulgue kits especiais para aumentar o ticket médio",
+    "type": "share_link",
+    "status": "pending",
+    "shareUrl": "https://minhaloja.boticario.com.br/ana/kits"
+  }
+]
